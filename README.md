@@ -2,7 +2,7 @@
 
 ## Installation
 
-step 1:  clone project.
+step 1:  clone project.\
 step 2: open cmd run command (composer update).it will update your laravel dependency.
 step 3. run apatch serve 
 step 4. run command  (npm update). it will update vue js dependency.
